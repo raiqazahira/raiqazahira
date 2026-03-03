@@ -31,7 +31,7 @@ Here are some ideas to get you started: -->
 <div align="center" width="100%">
 
 
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=raiqazahira&show_icons=true&theme=tokyonight" /><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raiqazahira&layout=compact&theme=tokyonight" />
+  <img width="57%" src="https://github-readme-stats-fast.vercel.app/api?username=raiqazahira&show_icons=true&theme=tokyonight" /><img width="43%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raiqazahira&layout=compact&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=raiqazahira&theme=tokyonight" />
 </div>
