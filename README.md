@@ -33,11 +33,13 @@ Here are some ideas to get you started: -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=raiqazahira&theme=tokyonight-duo&hide_border=true" />
   </a>
 
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raiqazahira&layout=compact&theme=tokyonight" />
+
   <img src="https://github-readme-stats-fast.vercel.app/api?username=raiqazahira&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=raiqazahira&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raiqazahira&layout=compact&theme=tokyonight" />
+
 
 </div>
 
