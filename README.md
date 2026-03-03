@@ -32,9 +32,6 @@ Here are some ideas to get you started: -->
     <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=raiqazahira&theme=tokyonight-duo&hide_border=true" />
   </a>
-
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=raiqazahira&show_icons=true&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raiqazahira&layout=compact&theme=tokyonight" />
   <br/>
   <br/>
