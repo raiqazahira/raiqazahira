@@ -35,9 +35,8 @@ Here are some ideas to get you started: -->
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=raiqazahira&show_icons=true&theme=tokyonight" />
   <br/>
-
-  <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raiqazahira&layout=compact&theme=tokyonight" />
+  <br/>
   <br/>
 
 </div>
